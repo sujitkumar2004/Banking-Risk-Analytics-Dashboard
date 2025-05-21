@@ -33,8 +33,12 @@ In this project, I developed a robust loan analytics dashboard that allows banki
 ---
 
 ## Screenshots
-
+![image](https://github.com/user-attachments/assets/6b59e50f-8f81-4c5c-aee6-03fb96481201)
 ![image](https://github.com/user-attachments/assets/cc9b2f16-9110-4cc2-b83a-2756d18ef7c9)
+![image](https://github.com/user-attachments/assets/6ae29915-ad04-4792-a7ae-4e83f6f47387)
+![image](https://github.com/user-attachments/assets/5bd91e83-a6a6-4ac8-a5d5-8e09b265ff9c)
+
+
 
 
 ---
