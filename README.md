@@ -34,7 +34,8 @@ In this project, I developed a robust loan analytics dashboard that allows banki
 
 ## Screenshots
 
-(Add screenshots of the Power BI dashboard here if possible)
+![image](https://github.com/user-attachments/assets/cc9b2f16-9110-4cc2-b83a-2756d18ef7c9)
+
 
 ---
 
